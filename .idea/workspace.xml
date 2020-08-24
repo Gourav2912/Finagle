@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13e547fd-82c7-4304-b002-51fd815c9990" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\91950\.m2" />
+        <option name="userSettingsFile" value="C:\Users\91950\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="internet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gLsO4F78BdL846XnK8gsGIJlL5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Finagle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="Finagle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinagleIntegrationTest.givenServerAndClient_whenRequestSent_thenClientShouldReceiveResponseFromServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Finagle" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FinagleIntegrationTest" />
+      <option name="METHOD_NAME" value="givenServerAndClient_whenRequestSent_thenClientShouldReceiveResponseFromServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.FinagleIntegrationTest.givenServerAndClient_whenRequestSent_thenClientShouldReceiveResponseFromServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/udemy/Basic3/exercises-applied-part3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spark/code/rtjvm/spark-essentials" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13e547fd-82c7-4304-b002-51fd815c9990" name="Default Changelist" comment="" />
+      <created>1597905171915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597905171915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="0" key="#Project_Structure" timestamp="1597934966361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="0" key="#Project_Structure/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1597934966361" />
+    <state x="445" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1598245522727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598245522727" />
+    <state x="391" y="94" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1598246610124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="94" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598246610124" />
+    <state width="1235" height="222" key="GridCell.Tab.0.bottom" timestamp="1598273647926">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598273647926" />
+    <state width="1235" height="222" key="GridCell.Tab.0.center" timestamp="1598273647926">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="222" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598273647926" />
+    <state width="1235" height="222" key="GridCell.Tab.0.left" timestamp="1598273647926">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="222" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598273647926" />
+    <state width="1235" height="222" key="GridCell.Tab.0.right" timestamp="1598273647926">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="222" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598273647926" />
+    <state x="170" y="0" key="Maven.ArtifactSearchDialog" timestamp="1598246563174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="170" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598246563174" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1598246612936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598246612936" />
+    <state x="335" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1598249157752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1280.760@0.0.1280.680" timestamp="1598249157752" />
+  </component>
+</project>
